@@ -28,7 +28,7 @@ class Artist
     binding.pry
     if self.all
     
-    
+  end
   end
   
 end
