@@ -26,7 +26,7 @@ class Artist
   
   def self.find_or_create_by_name(artist_name)
     binding.pry
-    if self.all.include? 
+    if self.all.
     
   end
   end
